@@ -1,1 +1,1 @@
-This Leigh's first git project!
+This is Leigh's first git project!
